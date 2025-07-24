@@ -1,6 +1,7 @@
 # SQL-SALES-ANALYSIS
 
 Tools Used:Excel, MySQL
+
 Performed in-depth analysis on a structured ecommerce dataset using SQL.
 Imported and processed large datasets from
 Excel (CSV format) into MySQL for advanced
